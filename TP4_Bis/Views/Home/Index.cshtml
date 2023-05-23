@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Menu";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+</head>
+<body bgcolor="moccasin">
+    <font color="sienna">
+    <center><u><h1>Tp 4 Bis</h1></u></center>
+    @foreach (var item in ViewBag.ListaPaises)
+    {
+        <a href='@Url.Action("DetallePais", new {pais = item.nombre})'><img src="/imgBandera/@item.imgBandera" alt="" width="300"> </a>
+    }
+    </font>
+</body>
+</html>
+
+
+

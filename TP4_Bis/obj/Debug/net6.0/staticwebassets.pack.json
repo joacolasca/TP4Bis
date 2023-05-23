@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP4_Bis.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP4_Bis.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\wwwroot\\Himnos\\HimnoAlemania.mp3",
+      "PackagePath": "staticwebassets\\Himnos\\HimnoAlemania.mp3"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\wwwroot\\Himnos\\HimnoArgentina.mp3",
+      "PackagePath": "staticwebassets\\Himnos\\HimnoArgentina.mp3"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\wwwroot\\Himnos\\HimnoBrasil.mp3",
+      "PackagePath": "staticwebassets\\Himnos\\HimnoBrasil.mp3"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\wwwroot\\Himnos\\HimnoEspaña.mp3",
+      "PackagePath": "staticwebassets\\Himnos\\HimnoEspaña.mp3"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\wwwroot\\Himnos\\HimnoItalia.mp3",
+      "PackagePath": "staticwebassets\\Himnos\\HimnoItalia.mp3"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\wwwroot\\imgBandera\\Bandera_Alemania.png",
+      "PackagePath": "staticwebassets\\imgBandera\\Bandera_Alemania.png"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\wwwroot\\imgBandera\\Bandera_Argentina.png",
+      "PackagePath": "staticwebassets\\imgBandera\\Bandera_Argentina.png"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\wwwroot\\imgBandera\\Bandera_Brasil.png",
+      "PackagePath": "staticwebassets\\imgBandera\\Bandera_Brasil.png"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\wwwroot\\imgBandera\\Bandera_España.png",
+      "PackagePath": "staticwebassets\\imgBandera\\Bandera_España.png"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\wwwroot\\imgBandera\\Bandera_Italia.png",
+      "PackagePath": "staticwebassets\\imgBandera\\Bandera_Italia.png"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4_Bis\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TP4_Bis.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TP4_Bis.props",
+      "PackagePath": "build\\TP4_Bis.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TP4_Bis.props",
+      "PackagePath": "buildMultiTargeting\\TP4_Bis.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TP4_Bis.props",
+      "PackagePath": "buildTransitive\\TP4_Bis.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

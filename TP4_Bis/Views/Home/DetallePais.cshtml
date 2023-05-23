@@ -1,0 +1,29 @@
+@{
+    ViewData["Title"] = "Detalle del pais";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalle</title>
+</head>
+<body bgcolor="moccasin">
+    <div>
+        <audio autoplay>
+        <source src="/Himnos/@ViewBag.Pais.AudioHimno" type="audio/mp3">
+        </audio>
+    <center>
+    <font color="sienna">
+    <u><h1>Nombre del pais:</u> @ViewBag.Pais.nombre</h1>
+    <u><h1>Bandera:</h1></u>
+    <img src="/imgBandera/@ViewBag.Pais.imgBandera" width="300" alt="">
+    <u><h1>Poblacion: </u>@ViewBag.Pais.Poblacion</h1>
+    <u><h1>Fecha independencia: </u>@ViewBag.Pais.FechaIndependencia</h1>
+    <u><h1>Atractivos turisticos: </u>@ViewBag.Pais.AtractivosTuristicos</h1>
+    </font>
+    </center>
+</div>
+</body>
+</html>
